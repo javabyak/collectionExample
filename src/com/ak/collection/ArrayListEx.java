@@ -31,7 +31,7 @@ public class ArrayListEx {
 		System.out.println(list);
 		//  o/p:[100, ak, 200.0, anshu, verma]
 		
-		List<Object> l2=new ArrayList<Object>();
+		List l2=new ArrayList<Object>();
 		l2.add(100);
 		l2.add("ak");
 		l2.add(400);
