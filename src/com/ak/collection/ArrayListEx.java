@@ -6,7 +6,7 @@ import java.util.List;
 public class ArrayListEx {
 
 	public static void main(String[] args) {
-		List<Object> list=new ArrayList();
+		List<Object> list=new ArrayList<>();
 		
 		list.add(100);
 		list.add("ak");
